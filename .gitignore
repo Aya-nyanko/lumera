@@ -1,0 +1,21 @@
+# Publish only the static website. Keep sources, backups and QA files local.
+/*
+!/.gitignore
+!/.nojekyll
+!/index.html
+!/css/
+/css/*
+!/css/style.css
+!/js/
+/js/*
+!/js/main.js
+!/img/
+/img/*
+!/img/hero1.jpg
+!/img/botoru.jpg
+!/img/borol.jpg
+!/img/botoru-te.jpg
+!/img/tex.jpg
+!/img/hana.jpg
+!/img/daily-ritual.webp
+!/img/favicon.svg
